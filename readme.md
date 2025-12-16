@@ -3,7 +3,7 @@
 ### Top 3 OS:
 1. Arch Linux
 2. Ubuntu Linux
-- 9223372036854775807. Very Bottom = Windows (Forced)
+3. I hate windows
 
 ### Top 5 Programming Languages:
 1. C++
