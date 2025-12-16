@@ -13,5 +13,5 @@
 5. Java
 
 ### Notes:
-I mainly like doing embedded/IoT development but I am forced to do software engineering as a career because I have no choice
+I mainly like doing embedded/IoT development
 I mostly post personal projects tinkering with Raspberry PIs, Arduinos, ESP32, etc.
