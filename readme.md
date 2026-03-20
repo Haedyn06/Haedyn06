@@ -3,7 +3,7 @@
 ### Top 3 OS:
 1. Arch Linux
 2. Ubuntu Linux
-3. I hate windows
+3. Windows.. too bloated. :(
 
 ### Top 5 Programming Languages:
 1. C++
