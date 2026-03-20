@@ -13,5 +13,7 @@
 5. Java
 
 ### Notes:
-I mainly like doing embedded/IoT development
+I like doing embedded/IoT development
 I mostly post personal projects tinkering with Raspberry PIs, Arduinos, ESP32, etc.
+
+I also like deploying and creating applications and designing cool UI's like ricing my linux :)
