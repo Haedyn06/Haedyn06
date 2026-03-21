@@ -18,5 +18,4 @@ I mostly post personal projects tinkering with Raspberry PIs, Arduinos, ESP32, e
 
 I also like deploying and creating applications and designing cool UI's like ricing my linux :)
 
-### My Portfolio
-haedyns-portfolio.vercel.app
+[My Portfolio](https://haedyns-portfolio.vercel.app)
