@@ -1,9 +1,7 @@
 # I Am Haedyn
 
-### Top 3 OS:
-1. Arch Linux
-2. Ubuntu Linux
-3. Windows.. too bloated. :(
+### Top OS: 
+Arch Linux
 
 ### Top 5 Programming Languages:
 1. C++
