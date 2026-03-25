@@ -7,8 +7,8 @@ Arch Linux
 1. C++
 2. Python
 3. JavaScript
-4. LUA
-5. Java
+4. Java
+5. LUA
 
 ### Notes:
 I like doing embedded/IoT development
