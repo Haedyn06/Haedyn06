@@ -1,7 +1,7 @@
 # Haedyn06
-
-![Cover Image](cover.png)
-
+<p align="center">
+  <img src="cover.png" width="800" />
+</p>
 <p align="center">
     <a href="https://haedynweb.vercel.app/">
         <img src="https://img.shields.io/badge/Website-Hayden%20Davac-%230077B5.svg?&style=for-the-badge&color=blue" />
