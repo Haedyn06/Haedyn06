@@ -37,7 +37,7 @@ I tinker with boards such as Arduino, Raspberry Pi's and other micro controllers
 
 ### Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/csharp.webp" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/python-14-569257.png" height="40"/>
