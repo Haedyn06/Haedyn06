@@ -1,4 +1,3 @@
-# Haedyn06
 <p align="center">
   <img src="cover.png" width="600" />
 </p>
@@ -26,11 +25,11 @@ I tinker with boards such as Arduino, Raspberry Pi's and other micro controllers
 
 ## Top Projects
 
--  [**Motor Hand Controls**](https://github.com/Haedyn06/Motor-Hand-Controls)
--  [**Arch Ricing Configs:**](https://github.com/Haedyn06/Laptop-Arch-Ricing) 
--  [**Drive Logger (Mobile):**](https://github.com/Haedyn06/Drive-Log-Mobile)
--  [**Arc Wellness (Mobile):**](https://github.com/Alidawood123/capstone) ([**Visit**](https://apps.apple.com/ca/app/arc-wellness/id6761204779))
--  [**Project HomeFull (Web):**](https://project-homefull.vercel.app/) ([**Visit**](https://project-homefull.vercel.app/))
+-  ### [**Motor Hand Controls**](https://github.com/Haedyn06/Motor-Hand-Controls)
+-  ### [**Arch Ricing Configs**](https://github.com/Haedyn06/Laptop-Arch-Ricing) 
+-  ### [**Drive Logger**](https://github.com/Haedyn06/Drive-Log-Mobile)
+-  ### [**Arc Wellness**](https://github.com/Alidawood123/capstone) ([**Visit**](https://apps.apple.com/ca/app/arc-wellness/id6761204779))
+-  ### [**Project HomeFull**](https://project-homefull.vercel.app/) ([**Visit**](https://project-homefull.vercel.app/))
 
 ---
 
@@ -72,5 +71,4 @@ I tinker with boards such as Arduino, Raspberry Pi's and other micro controllers
 
 ---
 
-## Contact
 ### Connect on [LinkedIn](https://www.linkedin.com/in/hayden-davac/) or email at [hayden.davingo06@gmail.com](mailto:hayden.davingo06@gmail.com)!
