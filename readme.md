@@ -37,7 +37,7 @@ I tinker with boards such as Arduino, Raspberry Pi's and other micro controllers
 ## Technical Skills
 
 ### Languages
-<p align="left">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img align="center" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Icon" height="40" width="40" /> 
 
 <img align="center" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/csharp.webp" alt="C# Icon" height="40" width="40" /> 
@@ -51,11 +51,11 @@ I tinker with boards such as Arduino, Raspberry Pi's and other micro controllers
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="TypeScript Icon" height="40" width="40" />
 
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/3840px-Lua-Logo.svg.png" alt="Lua Icon" height="40" width="40" />
-</p>
+</div>
 
 
 ### Frameworks & Libraries
-<p align="left">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/react-4-1175110.png" alt="React Icon" height="40" width="40" /> 
 
 <img align="center" src="https://images.seeklogo.com/logo-png/39/2/next-js-logo-png_seeklogo-394608.png" alt="Next.js Icon" height="40" width="40" /> 
@@ -67,11 +67,11 @@ I tinker with boards such as Arduino, Raspberry Pi's and other micro controllers
 <img align="center" src="https://images.seeklogo.com/logo-png/65/2/express-js-icon-logo-png_seeklogo-653222.png" alt="Express.js Icon" height="40" width="40" /> 
 
 <img align="center" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/tailwindcss-4e5kvfue5zb8mp9zxhb0x2.png/tailwindcss-jro9es7xxpcvj06j6yxfjm.png?_a=DATAiZAAZAA0" alt="TailwindCSS Icon" height="40" width="40" /> 
-</p>
+</div>
 
 
 ### Tools & Platforms
-<p align="left">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Node Icon" height="40" width="40" /> 
 
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" alt="PostgreSQL Icon" height="40" width="40" /> 
@@ -89,7 +89,7 @@ I tinker with boards such as Arduino, Raspberry Pi's and other micro controllers
 <img align="center" src="https://www.jfl-media.com/en/wp-content/uploads/2021/03/unity-icon.png" alt="Unity Icon" height="40" width="40" /> 
 
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/ROBLOX_Studio_icon.png" alt="Roblox Icon" height="40" width="40" /> 
-</p>
+</div>
 
 ---
 
