@@ -72,7 +72,15 @@ I tinker with boards such as Arduino, Raspberry Pi's and other micro controllers
 
 ### Tools & Platforms
 <p align="left">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Node Icon" height="40" width="40" /> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" alt="PostgreSQL Icon" height="40" width="40" /> <img align="center" src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="MongoDB Icon" height="40" width="40" /> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Firebase_icon.svg/1280px-Firebase_icon.svg.png" alt="Firebase Icon" height="40" width="40" /> <img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/066/712/306/small/aws-icon-logo-symbol-free-png.png" alt="AWS Icon" height="40" width="40" /> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/3840px-Microsoft_Azure.svg.png" alt="Azure Icon" height="40" width="40" /> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/960px-Arduino_IDE_logo.svg.png" alt="Arduino Icon" height="40" width="40" /> <img align="center" src="https://www.jfl-media.com/en/wp-content/uploads/2021/03/unity-icon.png" alt="Unity Icon" height="40" width="40" /> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/ROBLOX_Studio_icon.png" alt="Roblox Icon" height="40" width="40" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="40"/>
+  <img src="https://www.mongodb.com/assets/images/global/leaf.png" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Firebase_icon.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/ROBLOX_Studio_icon.png" height="40"/>
 </p>
 
 ---
