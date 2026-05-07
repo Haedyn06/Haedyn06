@@ -49,7 +49,7 @@ I tinker with boards such as Arduino, Raspberry Pi's and other micro controllers
 ### Frameworks & Libraries
 <p align="left">
   <img src="https://cdn.iconscout.com/icon/free/png-512/react-4-1175110.png" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="40"/>
