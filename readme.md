@@ -1,6 +1,6 @@
 # Haedyn06
 <p align="center">
-  <img src="cover.png" width="800" />
+  <img src="cover.png" width="600" />
 </p>
 <p align="center">
     <a href="https://haedynweb.vercel.app/">
