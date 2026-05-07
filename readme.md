@@ -52,7 +52,7 @@ I tinker with boards such as Arduino, Raspberry Pi's and other micro controllers
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="40"/>
+  <img src="https://web.itu.edu.tr/ceylans20/images/skill_icons/express.png" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40"/>
 </p>
 
