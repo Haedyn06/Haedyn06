@@ -68,7 +68,3 @@ I tinker with boards such as Arduino, Raspberry Pi's and other micro controllers
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/ROBLOX_Studio_icon.png" height="40"/>
 </p>
-
----
-
-### Connect on [LinkedIn](https://www.linkedin.com/in/hayden-davac/) or email at [hayden.davingo06@gmail.com](mailto:hayden.davingo06@gmail.com)!
