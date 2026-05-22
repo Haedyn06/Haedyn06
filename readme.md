@@ -15,7 +15,7 @@ I am a specialized developer in different fields such as:
 - Full-Stack Development (Web or Mobile)
 - Embedded/IoT Development
 - Game Development
-- Systems Development
+- Automation/Systems Development
 
 I use Arch Linux as my primary OS and development machine. 
 
