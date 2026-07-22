@@ -26,7 +26,7 @@ I tinker with boards such as Arduino, Raspberry Pi's and other micro controllers
 ## Top Projects
 
 -  ### [**Motor Hand Controls**](https://github.com/Haedyn06/Motor-Hand-Controls)
--  ### [**Arch Ricing Configs**](https://github.com/Haedyn06/Laptop-Arch-Ricing) 
+-  ### [**ABS-Trout**](https://github.com/Haedyn06/Trout-Stock-Web) 
 -  ### [**Drive Logger**](https://github.com/Haedyn06/Drive-Log-Mobile)
 -  ### [**Arc Wellness**](https://github.com/Alidawood123/capstone) ([**Visit**](https://apps.apple.com/ca/app/arc-wellness/id6761204779))
 -  ### [**Project HomeFull**](https://project-homefull.vercel.app/) ([**Visit**](https://project-homefull.vercel.app/))
